@@ -326,7 +326,7 @@
     },
     "devDependencies": {
         "@vue/test-utils": "^2.0.0",
-        "vitest": "^0.29.8"
+        "vitest": "^0.30.0"
     },
     "dependencies": {
         "@primeuix/styled": "^0.0.5",
